@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_delete" type="id" />
+    <item name="btn_save" type="id" />
+    <item name="first_name" type="id" />
+    <item name="last_name" type="id" />
+    <item name="contact_number" type="id" />
+    <item name="add_img" type="id" />
+</resources>
